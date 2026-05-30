@@ -206,8 +206,8 @@ if st.session_state['page'] == 'landing':
     with c2:
         st.markdown("""
         <div class="login-box">
-            <h2 style="color:white; margin-bottom: 15px; letter-spacing: 1px;">SMS SPAM DETECTION SYSTEM</h2>
-            <p style="color:#888; font-size: 14px; margin-bottom: 30px;">Machine Learning Final Project</p>
+            <h2 style="color:white; margin-bottom: 15px; letter-spacing: 1px;">Hybrid Context-Aware SMS Spam and Threat Detection System</h2>
+            <p style="color:#888; font-size: 14px; margin-bottom: 30px;">Cyber Security & Automated Threat Detection</p>
             <div style="text-align: left; color: #BBB; font-size: 13px; line-height: 2.2; border-top: 1px solid #333; padding-top: 20px;">
                 <div>[+] Algorithm: Multinomial Naive Bayes</div>
                 <div>[+] Dataset: UCI SMS Spam Collection</div>
